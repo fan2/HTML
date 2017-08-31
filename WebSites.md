@@ -28,11 +28,16 @@ http://www.reuters.com/
 ## movie/film
 http://www.hbo.com/  
 http://www.imdb.com/  
-http://www.filmweb.pl/  
 https://www.rottentomatoes.com/  
+
+### video
+https://vimeo.com/  
+http://www.filmweb.pl/  
 
 ## dig
 http://digg.com/  
 
 ## resources
-https://www.pexels.com/
+https://www.pexels.com/  
+[pixelfilmstudios](https://store.pixelfilmstudios.com/)：[ProKaraoke - Karaoke Tools for FCPX](http://store.pixelfilmstudios.com/product/prokaraoke/)  
+
