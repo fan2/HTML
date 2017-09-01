@@ -26,6 +26,8 @@ http://edition.cnn.com/
 http://www.reuters.com/  
 
 ## movie/film
+https://fantopia.club/ ：翻托邦字幕组
+
 http://www.hbo.com/  
 http://www.imdb.com/  
 https://www.rottentomatoes.com/  
@@ -40,4 +42,6 @@ http://digg.com/
 ## resources
 https://www.pexels.com/  
 [pixelfilmstudios](https://store.pixelfilmstudios.com/)：[ProKaraoke - Karaoke Tools for FCPX](http://store.pixelfilmstudios.com/product/prokaraoke/)  
+
+http://www.0daydown.com/
 
